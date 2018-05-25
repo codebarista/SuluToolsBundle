@@ -1,0 +1,19 @@
+{
+  "name": "codebarista/sulu-tools-bundle",
+  "description": "Sulu tools bundle",
+  "type": "symfony-bundle",
+  "authors": [
+    {
+      "name": "Ralf Langebrake",
+      "email": "ralf@langebrake.com"
+    }
+  ],
+  "license": [
+    "MIT"
+  ],
+  "autoload": {
+    "psr-4": {
+      "Codebarista\\Bundle\\SuluToolsBundle\\": ""
+    }
+  }
+}
